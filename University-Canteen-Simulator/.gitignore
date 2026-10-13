@@ -1,0 +1,16 @@
+# Build artifacts / File generati dalla compilazione
+*.o
+/main
+/aggiungi_utenti
+/Mensa/responsabile_mensa
+/Operatori/operatori
+/Utenti/utente
+
+# Runtime outputs / Output della simulazione
+/statistiche.csv
+*.log
+
+# Local tools
+.vscode/
+.idea/
+.DS_Store

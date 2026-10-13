@@ -1,0 +1,4 @@
+2;Penne al sugo;Trofie al pesto
+2;Milanese e patatine;Merluzzo alla piastra con carote
+2;Torta al cioccolato;Muffin
+4;Normale;Macchiato;Decaffeinato;Ginseng
